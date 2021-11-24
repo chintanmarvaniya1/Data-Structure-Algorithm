@@ -30,3 +30,15 @@ I've created this repository to learn about algorithms. I am adding solutions co
 4.[Inplace rotate square matrix by 90 degrees](https://www.geeksforgeeks.org/inplace-rotate-square-matrix-by-90-degrees/)<br>
 5.[Print a given matrix in spiral form](https://www.geeksforgeeks.org/print-a-given-matrix-in-spiral-form/)<br>
 6.[Search in a row wise and column wise sorted matrix](https://www.geeksforgeeks.org/search-in-row-wise-and-column-wise-sorted-matrix/)<br>
+## Searching
+1.[Linear Search](https://www.geeksforgeeks.org/linear-search/)<br>
+2.[Binary Search](https://www.geeksforgeeks.org/binary-search/)<br>
+3.[Find first positions of an element in a sorted array](https://www.geeksforgeeks.org/find-first-and-last-positions-of-an-element-in-a-sorted-array/)<br>
+4.[Find last positions of an element in a sorted array](https://www.geeksforgeeks.org/find-first-and-last-positions-of-an-element-in-a-sorted-array/)<br>
+5.[Count number of occurrences in Sorted Array](https://www.geeksforgeeks.org/count-number-of-occurrences-or-frequency-in-a-sorted-array/)<br>
+6.[Count 1’s in a sorted binary array](https://www.geeksforgeeks.org/count-1s-sorted-binary-array/)<br>
+7.[Square root of an integer](https://www.geeksforgeeks.org/square-root-of-an-integer/)<br>
+8.[Find a peak element](https://www.geeksforgeeks.org/find-a-peak-in-a-given-array/)<br>
+9.[Search an element in a sorted and rotated array](https://www.geeksforgeeks.org/search-an-element-in-a-sorted-and-pivoted-array/)<br>
+10.[Find a pair with the given sum in an array](https://www.techiedelight.com/find-pair-with-given-sum-array/)<br>
+11.[Find a triplet that sum to a given value](https://www.geeksforgeeks.org/find-a-triplet-that-sum-to-a-given-value/)<br>

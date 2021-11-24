@@ -23,3 +23,10 @@ I've created this repository to learn about algorithms. I am adding solutions co
 18.[Range sum](https://www.geeksforgeeks.org/range-sum-queries-without-updates/)<br>
 19.[Equilibrium index of an array](https://www.geeksforgeeks.org/equilibrium-index-of-an-array/)<br>
 20.[Most frequent element in an array](https://www.geeksforgeeks.org/frequent-element-array/)<br>
+## Matrix
+1.[Print Matrix in snake Pattern](https://www.geeksforgeeks.org/print-matrix-snake-pattern/)<br>
+2.[Boundary elements of a Matrix](https://www.geeksforgeeks.org/boundary-elements-matrix/#:~:text=Boundary%20elements%20are%20those%20elements,of%20the%20matrix%20is%20printed.)<br>
+3.[find transpose of a matrix](https://www.geeksforgeeks.org/program-to-find-transpose-of-a-matrix/)<br>
+4.[Inplace rotate square matrix by 90 degrees](https://www.geeksforgeeks.org/inplace-rotate-square-matrix-by-90-degrees/)<br>
+5.[Print a given matrix in spiral form](https://www.geeksforgeeks.org/print-a-given-matrix-in-spiral-form/)<br>
+6.[Search in a row wise and column wise sorted matrix](https://www.geeksforgeeks.org/search-in-row-wise-and-column-wise-sorted-matrix/)<br>

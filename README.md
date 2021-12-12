@@ -7,7 +7,7 @@ I've created this repository to learn about algorithms. I am adding solutions co
 2.[Find second largest element in an array](https://www.geeksforgeeks.org/find-second-largest-element-array/)<br>
 3.[Move all zeroes to end of array](https://www.geeksforgeeks.org/move-zeroes-end-array/)<br>
 4.[Reverse an array](https://www.geeksforgeeks.org/reverse-an-array-in-java/)<br>
-5.[Left Rotate an Array by one]()<br>
+5.Left Rotate an Array by one<br>
 6.[Leaders in an array](https://www.geeksforgeeks.org/leaders-in-an-array/)<br>
 7.[Maximum difference between two elements](https://www.geeksforgeeks.org/maximum-difference-between-two-elements/)<br>
 8.[Stock Buy Sell to Maximize Profit](https://www.geeksforgeeks.org/stock-buy-sell/)<br>
@@ -41,4 +41,21 @@ I've created this repository to learn about algorithms. I am adding solutions co
 8.[Find a peak element](https://www.geeksforgeeks.org/find-a-peak-in-a-given-array/)<br>
 9.[Search an element in a sorted and rotated array](https://www.geeksforgeeks.org/search-an-element-in-a-sorted-and-pivoted-array/)<br>
 10.[Find a pair with the given sum in an array](https://www.techiedelight.com/find-pair-with-given-sum-array/)<br>
-11.[Find a triplet that sum to a given value](https://www.geeksforgeeks.org/find-a-triplet-that-sum-to-a-given-value/)<br>
+11.[Find a triplet that sum to a given value](https://www.geeksforgeeks.org/find-a-triplet-that-sum-to-a-given-value/)
+##Sorting
+1.[Bubble Sort](https://www.geeksforgeeks.org/bubble-sort/)<br>
+2.[Selection Sort](https://www.geeksforgeeks.org/selection-sort/)<br>
+3.[Insertion Sort](https://www.geeksforgeeks.org/insertion-sort/)<br>
+4.[Merge Sort](https://www.geeksforgeeks.org/merge-sort/)<br>
+5.[Quick Sort](https://www.geeksforgeeks.org/quick-sort/)<br>
+6.[Heap Sort](https://www.geeksforgeeks.org/heap-sort/)<br>
+7.[Count Sort](https://www.geeksforgeeks.org/counting-sort/)<br>
+8.[Radix Sort](https://www.geeksforgeeks.org/radix-sort/)<br>
+9.[Bucket Sort](https://www.geeksforgeeks.org/bucket-sort-2/)<br>
+10.[Intersection of 2 Sorted Array](https://www.geeksforgeeks.org/union-and-intersection-of-two-sorted-arrays-2/)<br>
+11.[Union of 2 Sorted Array](https://www.geeksforgeeks.org/union-and-intersection-of-two-sorted-arrays-2/)<br>
+12.[Count Inversion](https://www.geeksforgeeks.org/counting-inversions/)<br>
+13.[Kth Smallest Element](https://www.geeksforgeeks.org/kth-smallestlargest-element-unsorted-array/)<br>
+14.[Chocolate Distribution Problem](https://www.geeksforgeeks.org/chocolate-distribution-problem/)<br>
+15.[Segregate Array(Two Type of element)](https://www.geeksforgeeks.org/segregate-0s-and-1s-in-an-array-by-traversing-array-once/)<br>
+16.[Segregate Array(Three Type of element)](https://www.geeksforgeeks.org/sort-an-array-of-0s-1s-and-2s/)<br>

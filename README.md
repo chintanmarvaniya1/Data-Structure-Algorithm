@@ -41,8 +41,8 @@ I've created this repository to learn about algorithms. I am adding solutions co
 8.[Find a peak element](https://www.geeksforgeeks.org/find-a-peak-in-a-given-array/)<br>
 9.[Search an element in a sorted and rotated array](https://www.geeksforgeeks.org/search-an-element-in-a-sorted-and-pivoted-array/)<br>
 10.[Find a pair with the given sum in an array](https://www.techiedelight.com/find-pair-with-given-sum-array/)<br>
-11.[Find a triplet that sum to a given value](https://www.geeksforgeeks.org/find-a-triplet-that-sum-to-a-given-value/)
-##Sorting
+11.[Find a triplet that sum to a given value](https://www.geeksforgeeks.org/find-a-triplet-that-sum-to-a-given-value/)<br>
+## Sorting
 1.[Bubble Sort](https://www.geeksforgeeks.org/bubble-sort/)<br>
 2.[Selection Sort](https://www.geeksforgeeks.org/selection-sort/)<br>
 3.[Insertion Sort](https://www.geeksforgeeks.org/insertion-sort/)<br>
